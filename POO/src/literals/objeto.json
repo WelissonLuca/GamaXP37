@@ -1,0 +1,13 @@
+{
+  "produto": [
+    {
+      "id":1,
+      "name": "Celular",
+      "price": 8000,
+      "discount": 5,
+      "description": {
+        "features":"touchscreen"
+      }
+    }
+  ]
+}
