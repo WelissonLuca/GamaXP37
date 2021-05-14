@@ -90,6 +90,6 @@ Autor
 Licença
 ============
 
-Este repositório esta sobe a licença [MIT](./LICENSE).
+Este repositório esta sobe a licença [MIT](https://github.com/WelissonLuca/GamaXP37/blob/main/LICENSE).
 
 Feito por Welisson Luca 👋🏻 [Entre em contato!](https://api.whatsapp.com/send?phone=5591999145682&text=Informe%20seu%20nome%20%C3%A9%20qual%20o%20assunto.!)
