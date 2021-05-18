@@ -112,6 +112,8 @@ Projetos
 
 <!--ts-->
    * [Jokenpo](https://github.com/WelissonLuca/GamaXP37/tree/main/Modulo-POO-08/Jokenpo)
+
+  * [StarWars](https://github.com/WelissonLuca/GamaXP37/tree/main/BoasPraticas-09/StarWars)
 <!--te-->
 
 <hr>
