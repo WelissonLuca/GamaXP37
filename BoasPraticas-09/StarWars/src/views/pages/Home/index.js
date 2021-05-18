@@ -2,11 +2,11 @@ import homeSectionOne from '../../components/sections/homeSectionOne';
 import homeSectionTwo from '../../components/sections/homeSectionTwo';
 import floatImage from '../../components/float/floatImage';
 
-let Home = {
+const Home = {
   is_private: false,
 
   render: async () => {
-      let view = `
+    const view = `
           <div>
             ${homeSectionOne}
             ${homeSectionTwo}
@@ -14,10 +14,10 @@ let Home = {
           </div>
       `;
 
-      return view
+    return view;
   },
 
-  after_render: async () => {}
-}
+  after_render: async () => {},
+};
 
 export default Home;

@@ -1,17 +1,17 @@
-let Jedi = {
+const Jedi = {
   is_private: false,
 
   render: async () => {
-      let view = `
+    const view = `
           <div>
             <h2>Caro Jedi, bem vindo a ordem.</h2>
           </div>
       `;
 
-      return view
+    return view;
   },
 
-  after_render: async () => {}
-}
+  after_render: async () => {},
+};
 
 export default Jedi;

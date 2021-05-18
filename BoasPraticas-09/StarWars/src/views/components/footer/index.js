@@ -1,6 +1,6 @@
-import Planet from '../../../assets/images/elements/planet.png'
+import Planet from '../../../assets/images/elements/planet.png';
 
-let footer = `
+const footer = `
 <div class="footer-contain">
     <p>
         Star wars  -  este é um exemplo criado para os Alunos Gama Academy</br>
@@ -10,6 +10,6 @@ let footer = `
         <img src="${Planet}" alt="planet">
     </a>
 </div>
-`
+`;
 
 export default footer;

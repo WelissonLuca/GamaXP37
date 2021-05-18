@@ -1,7 +1,7 @@
 import Logo from '../../../assets/images/logo/logo.png';
-import backgroundOne from '../../../assets/images/background/bg1.jpg'
+import backgroundOne from '../../../assets/images/background/bg1.jpg';
 
-let HomeSectionOne = `
+const HomeSectionOne = `
 <section id="section-one" class="section background--one" style="background-image: url(${backgroundOne})">
     <div>
         <div class="container block-section--one">
@@ -10,6 +10,6 @@ let HomeSectionOne = `
         </div>  
     </div>
 </section>
-`
+`;
 
-export default HomeSectionOne
+export default HomeSectionOne;

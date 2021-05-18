@@ -1,17 +1,17 @@
 import darthError from '../../../assets/images/elements/404_darth-vader-png.png';
-import errorBg from '../../../assets/images/background/bg3.jpeg'; 
+import errorBg from '../../../assets/images/background/bg3.jpeg';
 
-let Error404 = {
-    is_private: false,
-    render: async () => {
-        let view = `${error}`
-        return view
-    },
+const Error404 = {
+  is_private: false,
+  render: async () => {
+    const view = `${error}`;
+    return view;
+  },
 
-    after_render: () => {
-        console.log('Try another one... :)')
-    }
-}
+  after_render: () => {
+    console.log('Try another one... :)');
+  },
+};
 let error = `
 
 <div class="error-default" style="background-image: url('${errorBg}')">
@@ -24,6 +24,6 @@ let error = `
         <h3>Clique no Vader e tente novamente.</h3>
     </div>
 </div>
-`
+`;
 
 export default Error404;
