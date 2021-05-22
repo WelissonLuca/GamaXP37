@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center;">Repositório com conteúdo estudado no Gama-XP</h1>
 
-###Formação FullStack Developer
+### Formação FullStack Developer
 
 <p align="center">
 
@@ -43,7 +43,7 @@ Cronograma
 
 ![Logo do Markdown](https://i.imgur.com/v4kkfNO.png)
 
-- [ ] Mês 1 - Essencial Skills
+- [x] Mês 1 - Essencial Skills
 - [ ] Mês 2 - Back-end
 - [ ] Mês 3 - Front End
 - [ ] Mês 4 - Diferenciais
@@ -64,7 +64,7 @@ desenvolvimento
 - [x] Modúlo - GIT
 - [x] Modúlo - Programação Orientada a
 Objetos
-- [ ] Modúlo - Boas práticas de
+- [x] Modúlo - Boas práticas de
 desenvolvimento
 
 <hr>
