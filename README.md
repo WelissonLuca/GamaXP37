@@ -53,7 +53,7 @@ Cronograma
 Modúlos
 ============
 
-###Mês 1 - Essencial Skills 👽
+### Mês 1 - Essencial Skills 👽
 - [x] Modúlo - Metodologias ágeis
 - [x] Modúlo - Introdução ao mundo do
 desenvolvimento
@@ -69,21 +69,21 @@ desenvolvimento
 
 <hr>
 
-###Mês 2 - Back-end 👑
-- [ ] Modúlo - Fundamentos de Node
-- [ ] Modúlo - Segurança na Web
-- [ ] Modúlo - HTTP GET e HTTP POST
+### Mês 2 - Back-end 👑
+- [x] Modúlo - Fundamentos de Node
+- [x] Modúlo - Segurança na Web
+- [x] Modúlo - HTTP GET e HTTP POST
 (Arquitetura WEB)
-- [ ] Modúlo - Criando uma REST API
-- [ ] Modúlo - Criando Banco de Dados
+- [x] Modúlo - Criando uma REST API
+- [x] Modúlo - Criando Banco de Dados
 com MySQL
-- [ ] Modúlo - Gerenciamento de erros
-- [ ] Modúlo - Buffer e Streams
-- [ ] Modúlo - Consumo de API terceiras
+- [x] Modúlo - Gerenciamento de erros
+- [x] Modúlo - Buffer e Streams
+- [x] Modúlo - Consumo de API terceiras
 
 <hr>
 
-###Mês 3 - Front-end  📌
+### Mês 3 - Front-end  📌
 - [ ] Modúlo - HTML
 - [ ] Modúlo - CSS
 - [ ] Modúlo - Bootstrap e Material
